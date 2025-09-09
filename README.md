@@ -31,9 +31,7 @@ O aplicativo permite:
 
 ## 📂 Estrutura do Projeto
 
-MainActivity.kt -> Configuração do NavHost e navegação
-
-pages/
+MainActivity.kt -> Configuração do NavHost e navegação pages
 ├─ LoginScreen.kt -> Tela de login
 ├─ RegisterScreen.kt -> Tela de registro
 ├─ HomeScreen.kt -> Tela inicial após login
