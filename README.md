@@ -33,8 +33,11 @@ O aplicativo permite:
 
 MainActivity.kt -> Configuração do NavHost e navegação pages
 ├─ LoginScreen.kt -> Tela de login
+
 ├─ RegisterScreen.kt -> Tela de registro
+
 ├─ HomeScreen.kt -> Tela inicial após login
+
 └─ CrudScreen.kt -> Tela CRUD de produtos
 ---
 
