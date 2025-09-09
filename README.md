@@ -87,10 +87,11 @@ O aplicativo permite:
   <img width="250" alt="Imagem 4" src="https://github.com/user-attachments/assets/cbf7fbf7-1bef-46c5-93be-0bee110155bd" />
 </div>
 
+---
+
 ## 🔥 Firebase banco
 
-<img width="903" height="443" alt="image" src="https://github.com/user-attachments/assets/d4b58452-afdf-40f4-9acc-cd59447b1095" />
- 
+<img width="906" height="425" alt="image" src="https://github.com/user-attachments/assets/4da2d4fb-b857-4db8-99eb-6af4f047053d" />
 
 
 
