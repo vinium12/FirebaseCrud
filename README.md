@@ -31,14 +31,16 @@ O aplicativo permite:
 
 ## 📂 Estrutura do Projeto
 
-MainActivity.kt -> Configuração do NavHost e navegação pages
-├─ LoginScreen.kt -> Tela de login
+* **`MainActivity.kt`**:  
+  Ponto de entrada do aplicativo. Configura o **NavHost**, que gerencia a navegação entre as telas de login, registro, home e CRUD.
 
-├─ RegisterScreen.kt -> Tela de registro
+* **`pages/`** (telas principais):
+  * **`LoginScreen.kt`**: Tela para login de usuários, com validação das credenciais no Firestore.
+  * **`RegisterScreen.kt`**: Tela para cadastro de novos usuários e armazenamento de dados no Firestore.
+  * **`HomeScreen.kt`**: Tela inicial exibida após o login. Permite listar registros do banco e navegar para CRUD.
+  * **`CrudScreen.kt`**: Tela para realizar operações CRUD em uma coleção de produtos.
 
-├─ HomeScreen.kt -> Tela inicial após login
 
-└─ CrudScreen.kt -> Tela CRUD de produtos
 ---
 
 ## 📌 Funcionalidades
