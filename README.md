@@ -82,7 +82,7 @@ O aplicativo permite:
 </div>
 
 <!-- Linha 2 -->
-<div style="display: flex; justify-content: center; gap: 16px;">
+<div style="display: flex; width: 100%; justify-content: center; gap: 16px;">
   <img width="250" alt="Imagem 3" src="https://github.com/user-attachments/assets/b1ea44e5-3632-41ea-aa05-dfaa0e24c4e9" />
   <img width="250" alt="Imagem 4" src="https://github.com/user-attachments/assets/cbf7fbf7-1bef-46c5-93be-0bee110155bd" />
 </div>
