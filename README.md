@@ -1,4 +1,4 @@
-<img width="903" height="443" alt="image" src="https://github.com/user-attachments/assets/61052d3b-2f97-4750-986d-4b414b28cf2e" /># 🟢 AppFirebaseCRUD
+# 🟢 AppFirebaseCRUD
 
 Este projeto demonstra a integração de um aplicativo Android moderno, desenvolvido em **Kotlin** e **Jetpack Compose**, com **Firebase Cloud Firestore**. Ele inclui autenticação de usuários e um sistema CRUD de produtos.
 
@@ -75,14 +75,12 @@ O aplicativo permite:
 
 ## 🖼 Imagens (adicione suas capturas de tela aqui)
 
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/ab353af6-d2da-4bd0-8ff3-219a96944369" />
-
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/02cb99a7-975a-4934-855f-a319298318bc" />
-
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/b1ea44e5-3632-41ea-aa05-dfaa0e24c4e9" />
-
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/cbf7fbf7-1bef-46c5-93be-0bee110155bd" />
-
-
+<div style=''>
+  <img width="250" alt="image" src="https://github.com/user-attachments/assets/ab353af6-d2da-4bd0-8ff3-219a96944369" />
+  <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/02cb99a7-975a-4934-855f-a319298318bc" />
+  <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/b1ea44e5-3632-41ea-aa05-dfaa0e24c4e9" />
+  <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/cbf7fbf7-1bef-46c5-93be-0bee110155bd" />
+  
+</div>
 
 
