@@ -73,19 +73,24 @@ O aplicativo permite:
 
 ---
 
-## 🖼 Imagens (adicione suas capturas de tela aqui)
+## 🖼 Imagens 
 
  <!-- Linha 1 -->
-<div style="display: flex; justify-content: center; gap: 16px; margin-bottom: 16px;">
+<div style="display: flex; justify-content: center; gap: 16px; margin-bottom: 30px;">
   <img width="250" alt="Imagem 1" src="https://github.com/user-attachments/assets/ab353af6-d2da-4bd0-8ff3-219a96944369" />
   <img width="250" alt="Imagem 2" src="https://github.com/user-attachments/assets/02cb99a7-975a-4934-855f-a319298318bc" />
 </div>
 
 <!-- Linha 2 -->
-<div style="display: flex; width: 100%; justify-content: center; gap: 16px;">
+<div style="display: flex; width: 100%; justify-content: center; gap: 30px;">
   <img width="250" alt="Imagem 3" src="https://github.com/user-attachments/assets/b1ea44e5-3632-41ea-aa05-dfaa0e24c4e9" />
   <img width="250" alt="Imagem 4" src="https://github.com/user-attachments/assets/cbf7fbf7-1bef-46c5-93be-0bee110155bd" />
 </div>
+
+## 🔥 Firebase banco
+
+<img width="903" height="443" alt="image" src="https://github.com/user-attachments/assets/d4b58452-afdf-40f4-9acc-cd59447b1095" />
+ 
 
 
 
