@@ -32,12 +32,12 @@ O aplicativo permite:
 ## 📂 Estrutura do Projeto
 
 MainActivity.kt -> Configuração do NavHost e navegação
-pages/
-├─ LoginScreen() -> Tela de login
-├─ RegisterScreen() -> Tela de registro
-├─ HomeScreen() -> Tela inicial após login
-└─ CrudScreen() -> Tela CRUD de produtos
 
+pages/
+├─ LoginScreen.kt -> Tela de login
+├─ RegisterScreen.kt -> Tela de registro
+├─ HomeScreen.kt -> Tela inicial após login
+└─ CrudScreen.kt -> Tela CRUD de produtos
 ---
 
 ## 📌 Funcionalidades
